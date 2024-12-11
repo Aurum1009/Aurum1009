@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my language ecosystem.
 - 📫 How to reach me: email (cobouchard11@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am currently designing a C# test version for my language, and eventually a Rust version.
+- ⚡ Fun fact: I like compiler engineering! 
 
 <!---
 Aurum1009/Aurum1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
