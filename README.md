@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Aurum1009
-- 👀 I’m interested in all kinds of programming, especially systems development and language design!
-- 🌱 I’m currently learning C#'s features and continuing my knowledge of Rust.
-- 💞️ I’m looking to collaborate on my language ecosystem.
+- 👀 I’m interested in: robotics & vuejs.
+- 🌱 I’m currently learning:
+- 💞️ I’m looking to collaborate on:
 - 📫 How to reach me: email (cobouchard11@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like compiler engineering! 
+- ⚡ Fun fact: 
 
 <!---
 Aurum1009/Aurum1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
